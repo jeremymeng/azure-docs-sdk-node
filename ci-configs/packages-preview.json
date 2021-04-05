@@ -18,6 +18,9 @@
       "name": "@azure/core-tracing@next"
     },
     {
+      "name": "@azure/core-xml@next"
+    },
+    {
       "name": "@azure/iot-device-update@next"
     },
     {

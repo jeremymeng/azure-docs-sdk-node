@@ -6,14 +6,40 @@
   },
   "npm_package_sources": [
     {
-      "name": "microsoft-speech-browser-sdk",
-      "registry": "csspeech.home-767.de"
+      "name": "@azure/ai-anomaly-detector@next"
     },
     {
-      "name": "@azure/amqp-common@next"
+      "name": "@azure/attestation@next"
+    },
+    {
+      "name": "@azure/communication-phone-numbers@next"
     },
     {
       "name": "@azure/core-tracing@next"
+    },
+    {
+      "name": "@azure/core-xml@next"
+    },
+    {
+      "name": "@azure/iot-device-update@next"
+    },
+    {
+      "name": "@azure/event-hubs@next"
+    },
+    {
+      "name": "@azure/schema-registry@next"
+    },
+    {
+      "name": "@azure/schema-registry-avro@next"
+    },
+    {
+      "name": "@azure/ai-form-recognizer@next"
+    },
+    {
+      "name": "@azure/identity@next"
+    },
+    {
+      "name": "@azure/keyvault-admin@next"
     },
     {
       "name": "@azure/keyvault-certificates@next"
@@ -25,121 +51,47 @@
       "name": "@azure/keyvault-secrets@next"
     },
     {
-      "name": "@azure/schema-registry@next"
-    },
-    {
-      "name": "@azure/digital-twins@next"
-    },
-    {
-      "name": "@azure/data-tables@next"
-    },
-    {
-      "name": "@azure/schema-registry-avro@next"
-    },
-    {
-      "name": "@azure/keyvault-admin@next"
-    },
-    {
-      "name": "@azure/storage-blob-changefeed@next"
-    },
-    {
-      "name": "@azure/ai-anomaly-detector@next"
-    },
-    {
-      "name": "@azure/ai-text-analytics@next"
-    },
-    {
-      "name": "@azure/communication-sms@next"
-    },
-    {
-      "name": "@azure/communication-chat@next"
-    },
-    {
-      "name": "@azure/communication-administration@next"
-    },
-    {
-      "name": "@azure/eventgrid@next"
-    },
-    {
-      "name": "@azure/search-documents@next"
-    },
-    {
       "name": "@azure/ai-metrics-advisor@next"
-    },
-    {
-      "name": "@azure/digital-twins-core@next"
-    },
-    {
-      "name": "@azure/core-amqp@next"
-    },
-    {
-      "name": "@azure/ai-form-recognizer@next"
-    },
-    {
-      "name": "@azure/synapse-artifacts@next"
-    },
-    {
-      "name": "@azure/storage-file-datalake@next"
-    },
-    {
-      "name": "@azure/synapse-monitoring@next"
-    },
-    {
-      "name": "@azure/synapse-access-control@next"
-    },
-    {
-      "name": "@azure/synapse-managed-private-endpoints@next"
-    },
-    {
-      "name": "@azure/synapse-spark@next"
-    },
-    {
-      "name": "@azure/storage-file-share@next"
-    },
-    {
-      "name": "@azure/storage-blob@next"
-    },
-    {
-      "name": "@azure/storage-queue@next"
-    },
-    {
-      "name": "@azure/opentelemetry-exporter-azure-monitor@latest"
-    },
-    {
-      "name": "@azure/attestation@next"
-    },
-    {
-      "name": "@azure/opentelemetry-exporter-azure-monitor@next"
-    },
-    {
-      "name": "@azure/core-https"
-    },
-    {
-      "name": "@azure/quantum-jobs@next"
-    },
-    {
-      "name": "@azure/core-xml"
-    },
-    {
-      "name": "@azure/communication-identity@next"
     },
     {
       "name": "@azure/monitor-opentelemetry-exporter@next"
     },
     {
-      "name": "@azure/identity@next"
+      "name": "@azure/storage-blob-changefeed@next"
     },
     {
-      "name": "@azure/iot-device-update@next"
+      "name": "@azure/synapse-access-control@next"
     },
     {
-      "name": "@azure/event-hubs@next"
+      "name": "@azure/synapse-artifacts@next"
     },
     {
-      "name": "@azure/communication-phone-numbers@next"
+      "name": "@azure/synapse-managed-private-endpoints@next"
     },
     {
-      "name": "@azure/template@next"
+      "name": "@azure/synapse-monitoring@next"
+    },
+    {
+      "name": "@azure/synapse-spark@next"
+    },
+    {
+      "name": "@azure/data-tables@next"
+    },
+    {
+      "name": "@azure/ai-text-analytics@next"
+    },
+    {
+      "name": "microsoft-speech-browser-sdk",
+      "registry": "csspeech.home-767.de"
+    },
+    {
+      "name": "@azure/digital-twins@next"
+    },
+    {
+      "name": "@azure/opentelemetry-exporter-azure-monitor@latest"
+    },
+    {
+      "name": "@azure/opentelemetry-exporter-azure-monitor@next"
     }
   ],
   "source_repos": []

@@ -100,7 +100,7 @@
           "**/*.yml"
         ],
         "src": "docs-ref-autogen",
-        "dest": "api",
+        "dest": "api/overview/azure",
         "group": "stable",
         "exclude": [
           "**/toc.yml"
